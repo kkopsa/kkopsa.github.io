@@ -1,7 +1,6 @@
 html 
 { 
-  background: #f06e3d; /* url(images/hed_dam.jpg) no-repeat center center fixed;
-  background-size: cover; */
+  background: #37360a;
 }
 
 h1 
@@ -9,7 +8,10 @@ h1
 	text-align: center;
 	font-family: "Courier New", Courier, Sans-serif;
 	font-size: 90px;
-	color: #c60002;
+	color: #f2281e;
+	background: -webkit-linear-gradient(left, #f2281e , black);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
 }
 
 h2
@@ -39,12 +41,12 @@ h2
 #signoff
 {
 	font-family: "Verdana", Verdana, Sans-serif;
-	font-size: 11px;
+	font-size: 12px;
 }
 
 #home_container
 {
-	background: #FFFFFF;
+	background: #fff98d;
 	width: 650px;
 	margin-left: 25%;
 	border-style: solid;
