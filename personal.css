@@ -1,0 +1,52 @@
+html 
+{ 
+  background: #f06e3d; /* url(images/hed_dam.jpg) no-repeat center center fixed;
+  background-size: cover; */
+}
+
+h1 
+{
+	text-align: center;
+	font-family: "Courier New", Courier, Sans-serif;
+	font-size: 90px;
+	color: #c60002;
+}
+
+h2
+{
+	text-align: center;
+	font-family: "Courier New", Courier, Sans-serif;
+	font-size: 50px;
+}
+
+#my_name
+{
+        margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#my_title
+{
+	margin-top: 15px;
+	/* color: #FF9900; */
+}
+
+#image
+{
+	text-align: center;
+}
+
+#signoff
+{
+	font-family: "Verdana", Verdana, Sans-serif;
+	font-size: 11px;
+}
+
+#home_container
+{
+	background: #FFFFFF;
+	width: 650px;
+	margin-left: 25%;
+	border-style: solid;
+	text-align: center;
+}
