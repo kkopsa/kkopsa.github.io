@@ -1,6 +1,6 @@
 html 
-{ 
-  background: #37360a;
+{
+	background: #37360a;
 }
 
 h1 
@@ -25,7 +25,7 @@ h2
 
 #my_name
 {
-        margin-top: 15px;
+    margin-top: 15px;
 	margin-bottom: 15px;
 }
 
@@ -44,6 +44,7 @@ h2
 {
 	font-family: "Verdana", Verdana, Sans-serif;
 	font-size: 12px;
+	color: #37360a;
 }
 
 #home_container
