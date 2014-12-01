@@ -9,9 +9,11 @@ h1
 	font-family: "Courier New", Courier, Sans-serif;
 	font-size: 90px;
 	color: #f2281e;
+	/* cheesy gradient effect
 	background: -webkit-linear-gradient(left, #f2281e , black);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
+	*/
 }
 
 h2
